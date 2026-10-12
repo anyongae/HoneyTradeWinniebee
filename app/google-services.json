@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447374669045",
+    "project_id": "winniebee-app",
+    "storage_bucket": "winniebee-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447374669045:android:101cdff05f0c1422a741bc",
+        "android_client_info": {
+          "package_name": "com.example.winniebeeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4GBQBbCKLvCXQk6jNQOfjAfS30TUfDgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
